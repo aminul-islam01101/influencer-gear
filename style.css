@@ -197,12 +197,18 @@ header section styles end
 =========================== */
 
 /*============================
-Top-player-blog section styles start
+brands section styles start
 =========================== */
+.brand{
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
 
+}
 
 /*============================
-Top-player-blog section styles end
+brands section styles end
 =========================== */
 
 
